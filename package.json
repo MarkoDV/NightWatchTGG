@@ -1,0 +1,15 @@
+{
+  "name": "cypress_nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress"
+  },
+  "keywords": [],
+  "author": "Marko",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.5.0"
+  }
+}
